@@ -1,0 +1,26 @@
+p
+{
+    color: white;
+}
+h1
+{
+    color: white;
+}
+.tDec a
+{
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+
+}
+v
+{
+    padding-top: 25px;
+}
+h4
+{
+    padding-bottom: 30px;
+}
